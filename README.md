@@ -1,10 +1,11 @@
-# Projeto Casa Fina Arquitetura - Curso Alura
-
+# 🏡 ["Projeto Casa Fina Arquitetura - Curso Alura "](https://cursos.alura.com.br/course/bootstrap-criacao-single-page-responsiva)
 ![image](https://user-images.githubusercontent.com/78277341/141523688-470a5f8e-5945-4af3-9112-645522f390e0.png)
 
 ## Sobre o curso
 
 Esta é a página que criei com o curso ["Bootstrap: criação de uma single-page responsiva"](https://cursos.alura.com.br/course/bootstrap-criacao-single-page-responsiva) do Alura, com o professor Yuri Padilha. Achei o curso bem complicadinho, mas no final, consegui construir uma página bem bacana e aprender várias coisas sobre a utilização do bootstrap e CSS. :)
+
+Link de acesso: https://sabrinagomessilva.github.io/projetoCasaFinaAlura/
 
 ## O que aprendi: 
 
